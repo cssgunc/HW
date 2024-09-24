@@ -1,29 +1,21 @@
-# CS+SG Fall 2023 Education Team: Homework 1
+# CS+SG Fall 2024 Education Team: Homework 1
 
 ## Introduction
 
-In this homework assignment, you will be applying what you've learned by creating your very own website portfolio. This is not only a great way to practice your skills but also a fantastic starting point to showcase your work in the future.
+In this homework assignment, you will be applying what you've learned by cloning your own repository
 
 ## Requirements
 
-1. **HTML & CSS**: Your portfolio should be written in HTML and should utilize CSS for styling. This includes:
-
-   - Utilizing header tags, paragraph tags, divs, lists, etc.
-   - Creating appealing visual designs with elements like borders, backgrounds, etc.
-   - I stress that you try to make this as visually appealing as possible!
-   - [W3Schools CSS Reference Guide](https://www.w3schools.com/cssref/index.php)
-   - [For an in-depth guide into HTML and CSS!](https://internetingishard.netlify.app/)
-
-2. **Flexbox**: Your design must include at least one flexbox component. This is a great opportunity to make your layout responsive and clean!
-
-### Bonus
-
-**JavaScript**: Incorporate JavaScript into your portfolio. For example, you can use:
-
-   - The alert box we discussed in class.
-   - Any other JavaScript functions that you find appealing by looking around on Google!
-
-*This is optional since we didn't fully have a chance to merge our JavaScript file with our HTML in class!!*
+1. **Clone this Repository***
+   - download vs code
+   - clone into an empty folder
+   - open the folder in vs code
+   - Open a terminal or command prompt, navigate to the directory where you want to store the project, and run the following command: git clone
+   - Navigate into the cloned repository: Once the repository is cloned, move into the repository folder: cd
+   - Switch to a different branch: Check the existing branches in the repository: git branch -a
+   - Switch to a specific branch: git checkout dev-branch
+   - Create and switch to a new branch: Create a new branch to make changes. For example, if your name is Jane, create a branch named git checkout -b jane-branch
+   
 
 ## Resources
 
