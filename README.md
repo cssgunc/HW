@@ -20,7 +20,7 @@ In this homework assignment, you will be applying what you've learned by cloning
 
    - Open the new cloned folder in VSCode
    - Choose the `index.html` file from the list of files on the left. If you don't see the files in the folder, choose the explorer which looks like pages in the upper part of the left navigation
-   - **On line 9, write your name.** 😎
+   - **On line 9, write your name** 😎
    
 ## Submission
 Once you've completed your portfolio, make sure to review the requirements and ensure you've met them all. Then, submit your assignment by making a commit:
