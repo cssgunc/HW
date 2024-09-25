@@ -10,7 +10,7 @@ In this homework assignment, you will be applying what you've learned by cloning
 3. Submit by making a commit 🥳
 
 ## Directions
-1. **Clone this Repository***
+1. **Clone this Repository**
    - Download VSCode if you don't have it downloaded already (see our installation guide!)
    - Open VSCode
    - Open a new window if you have another project, `File > New Window`
