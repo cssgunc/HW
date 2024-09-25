@@ -1,62 +1,42 @@
-# CS+SG Fall 2024 Education Team: Homework 1
+# CS+SG Fall 2024 Education Team Homework 0
 
 ## Introduction
 
-In this homework assignment, you will be applying what you've learned by cloning your own repository
+In this homework assignment, you will be applying what you've learned by cloning your own repository before making a commit! 🤓
 
 ## Requirements
+1. Clone this repository
+2. Write your name on line 9 of `index.html` 👩🏾‍💻
+3. Submit by making a commit 🥳
 
+## Directions
 1. **Clone this Repository***
-   - download vs code
-   - clone into an empty folder
-   - open the folder in vs code
-   - Open a terminal or command prompt, navigate to the directory where you want to store the project, and run the following command: git clone
-   - Navigate into the cloned repository: Once the repository is cloned, move into the repository folder: cd
-   - Switch to a different branch: Check the existing branches in the repository: git branch -a
-   - Switch to a specific branch: git checkout dev-branch
-   - Create and switch to a new branch: Create a new branch to make changes. For example, if your name is Jane, create a branch named git checkout -b jane-branch
+   - Download VSCode if you don't have it downloaded already (see our installation guide!)
+   - Open VSCode
+   - Open a new window if you have another project, `File > New Window`
+   - Choose `Clone Git Repository...` from the Start options OR Open a terminal or command prompt, navigate to the directory where you want to store the project (hint: use the command `cd [PATHNAME]`, and run the following command: `git clone [HTTPS_LINK_TO_REMOTE_REPO]`
+     
+     ![Screen Shot 2024-09-24 at 9 29 15 PM](https://github.com/user-attachments/assets/14a68cc0-ef89-4203-8923-3068dbbd00ea)
+
+   - Open the new cloned folder in VSCode
+   - Choose the `index.html` file from the list of files on the left. If you don't see the files in the folder, choose the explorer which looks like pages in the upper part of the left navigation
+   - **On line 9, write your name.** 😎
    
+## Submission
+Once you've completed your portfolio, make sure to review the requirements and ensure you've met them all. Then, submit your assignment by making a commit:
+   - In VSCode, choose the branch icon in the left navigation bar (below the magnifiying glass
+     
+     ![Screen Shot 2024-09-24 at 10 04 38 PM](https://github.com/user-attachments/assets/9284ed9e-7d61-4d1f-a953-85eaa48cbb39)
+     
+   - Type a message into the field at the top of the bar that opens
+   - Choose the plus button that appears when you hover over changes; this prepares all of the changes you made to be packaged into a commit
+   - Hit the commit button!
+   - Hit that button again in order to send your commit from your local repository to the remote one (syncing the two repositories)
+   - You're done!! 🎉🎉🎉
 
 ## Resources
-
 Please remember that while you're working on this assignment, you can always refer to:
 
 - Lecture notes
 - Personal notes
-- Teaching Assistants (TAs)
-
-## Submission
-
-Once you've completed your portfolio, make sure to review the requirements and ensure you've met them all. Then, submit your assignment as per the guidelines provided in class.
-
-## Download New Course Material
-
-“Pulling” course materials down from Upstream. As new lesson material or starter code for exercises and projects is added to our central course repository, these are the steps you’ll take to download them into your own workspace repository.
-
-1. Open the _View_ menu and select _Command Palette_
-   - The shortcut for this menu is:
-   - Windows: `Control+Shift+P`
-   - Mac: `Command+Shift+P`
-2. Begin typing in `Git: Pull From...` and press `Enter` once it is the first option.
-3. Begin typing in `origin` and press `Enter` once it is the first option.
-4. Press enter with `origin/master` as the first option.
-5. This downloads the latest course materials! It will succeed silently, so if nothing appears to happen it worked (and any new files will be available in the file explorer). If there was an error, you would see an error message pop up.
-
-## Backup Your Work
-
-“Push” your work up to GitHub for backup. By creating “commits”, which you can think of as versioned checkpoints in your workspace, you are not at risk of losing your work. It’s easy to revert back to an old version or to restore your entire workspace on a different computer.
-
-1. Select the _View_ menu and then _SCM_ (Source Control Management)
-   - Alternatively: Select the Activity Bar icon that’s three circles with lines for Source Control
-2. Notice the files listed under Changes. These are files you’ve made modifications to since your last backup.
-3. Move your mouse’s cursor over the word changes and notice the + symbol that appears. Click that plus symbol to add all changes to the next backup. You will now see these listed under “Staged Changes”.
-   - If you do not want to backup _all_ changed files, you can select them individually. For this course you’re encouraged to back everything up.
-4. In the Message box, give a brief description of what you’ve changed and are backing up. This will help you find a specific backup (called a “commit”) if needed.
-5. Open the _View_ menu and select _Command Palette_, the shortcut for this menu is:
-   - Windows: `Control+Shift+P`
-   - Mac: `Command+Shift+P`
-6. Begin typing in: `Git: Push to...` and press `Enter` once it is the first option.
-7. Select the `backup` remote that is your personal workspace on GitHub. If you do not see `backup` listed, see the instructions below on _Setup Backup Course Material Repository_.
-   - You may see a spinning “refresh” icon in your status bar at the bottom of VSCode. Unless an error backing up occurs, you will not see any confirmation.
-   - If you want to see your backed up work on Github, navigate to the following URL but replace `USERNAME` with your GitHub username:
-   - `https://github.com/cssgunc/homework-1-USERNAME`
+- Teaching Assistants (TAs) & Education Team Lead
